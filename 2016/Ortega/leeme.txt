@@ -1,0 +1,3 @@
+PRACTICAS 2016 del Taller de Electrónica de la UNLaM
+Colocar un subdirectorio con el ejercicio1.
+Siempre hacer un git pull antes de enviar.
